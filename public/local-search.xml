@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>Classover Agent v1.1 现在开放免费使用</title>
+    <link href="/2026/09/25/CA-is-now-available/"/>
+    <url>/2026/09/25/CA-is-now-available/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Classover-Agent-v1-1-现在开放免费使用"><a href="#Classover-Agent-v1-1-现在开放免费使用" class="headerlink" title="Classover Agent v1.1 现在开放免费使用"></a>Classover Agent v1.1 现在开放免费使用</h1><p>ClassoverAgent是一款面向教育场景的桌面自动化工具。本软件通过检测相关进程，实现对指定进程的自动结束，并对可移动存储设备执行安全弹出操作。<br>针对教师在课后需手动关闭演示文稿并安全拔出 U盘的使用痛点，本软件提供一键式自动化解决方案，有效避免因文件占用导致的 U 盘数据损坏等问题，提升教学与办公效率。<br>本软件适用于 Windows 10&#x2F;11 操作系统环境下的个人电脑及电子白板，主要面向中小学教师等教育行业人员。<br><a href="/img/4/ClassoverAgentSetup.exe">安装包版</a><br><a href="/img/4/%E5%8D%95%E6%96%87%E4%BB%B6%E7%89%88.zip">单文件版（zip）</a><br><a href="/img/4/%E8%AF%BE%E4%BB%B6%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E4%B8%8EU%E7%9B%98%E5%AE%89%E5%85%A8%E5%BC%B9%E5%87%BA%E8%BD%AF%E4%BB%B6%EF%BC%88ClassoverAgent%EF%BC%89V1.0%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C.pdf">使用手册（pdf）</a><br><a href="/img/4/%E8%AF%BE%E4%BB%B6%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%E4%B8%8EU%E7%9B%98%E5%AE%89%E5%85%A8%E5%BC%B9%E5%87%BA%E8%BD%AF%E4%BB%B6%EF%BC%88ClassoverAgent%EF%BC%89V1.0%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C.docx">使用手册（docx）</a><br>请各位同学&#x2F;老师按需自取，同时<strong>欢迎改进使用手册</strong>（这也是为什么我放了docx版的原因）。后续<strong>可能会开源</strong>。若<strong>开源后将会在本帖后追加声明。</strong><br>本软件也是笔者vibe coding的<strong>第一个作品</strong>，若有<strong>不完善之处，敬请谅解。</strong>欢迎<strong>反馈问题到：</strong><br><strong>QQ：</strong><code>258096504</code><strong>（注明来意）</strong><br><strong>邮箱：</strong><code>Uranium_hnrmyfsx@disroot.org</code><strong>（可能回复不及时，建议优先QQ）</strong><br><strong>另，本版本标注为1.0,是为了方便申请软著使用。下一版本将为v1.2。</strong></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>vibe coding</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>能过评测的史山就是好代码</title>
     <link href="/2026/08/30/good-shit-good-code/"/>
     <url>/2026/08/30/good-shit-good-code/</url>
