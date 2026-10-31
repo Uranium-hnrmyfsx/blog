@@ -3,6 +3,7 @@ title: Classover Agent v1.1 现在开放免费使用
 date: 2026-09-25 23:38:55
 tags: 
   - vibe coding
+  - ClassoverAgent
 ---
 # Classover Agent v1.1 现在开放免费使用
 ClassoverAgent是一款面向教育场景的桌面自动化工具。本软件通过检测相关进程，实现对指定进程的自动结束，并对可移动存储设备执行安全弹出操作。

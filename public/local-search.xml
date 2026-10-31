@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>ClassoverAgent - 1.3.2正式发布</title>
+    <link href="/2026/10/31/CA132-available/"/>
+    <url>/2026/10/31/CA132-available/</url>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在ClassoverAgent - 1.1发布后1个多月内，我收集了多方建议&#x2F;意见，进行了<strong>多个小版本或大版本的跟进。</strong><br><del>不要问我1.2、1.2.x和1.3都去哪了。</del><br><del>前两者完成的时候没时间写博客，最后者甚至都没打包就被新版本干掉了。</del></p><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>无论如何，现在，我十分荣幸地宣布，<strong>ClassoverAgent - 1.3.2正式发布。</strong><br>版本新增功能：<br>    - 外观深浅色功能<br>    - 防误触确认<br>    - 设置&#x2F;退出验证密码（这十分有用，<del>防止神入在尊贵の电教委不在的时候使用本软件整花活</del>）<br>    - 新手引导（可以让老师看）<br>    - 名单管理浏览程序现在是浏览当前运行的进程<br>    - 修复了一些已知的bug</p><p>你可以<strong>从<a href="/img/5/ClassoverAgentSetup-1.3.2.exe">这里</a><strong>直接获得安装包。不过</strong>这里的文件是从GitHub拉取的</strong>（实则整个博客都是部署在GitHub Pages上的），<del>因而速度会十分感人。</del><br>所以<strong>我建议你从<a href="https://wwayy.lanzoue.com/il34M4e3q9bi">蓝奏云</a>下载（密码:gpxb）。</strong></p><h1 id="闲话"><a href="#闲话" class="headerlink" title="闲话"></a>闲话</h1><p><strong>值得一提的是，在开发1.3.x系列的时候，我将开发工具由TraeCode改为了Zcode并使用了GLM-5.3-flash，开发速度加快许多。</strong><br><del>事实证明GLM确实比豆沙包听得懂入话。</del></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>vibe coding</tag>
+      
+      <tag>ClassoverAgent</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Classover Agent v1.1 现在开放免费使用</title>
     <link href="/2026/09/25/CA-is-now-available/"/>
     <url>/2026/09/25/CA-is-now-available/</url>
@@ -15,6 +36,8 @@
     <tags>
       
       <tag>vibe coding</tag>
+      
+      <tag>ClassoverAgent</tag>
       
     </tags>
     
